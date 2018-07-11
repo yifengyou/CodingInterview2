@@ -26,7 +26,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 * 何海涛163博客:<http://zhedahht.blog.163.com/>
 
-* 书籍配套网站:<http://www.broadview.com.cn/book/18>
+* 博文视点社区网站:<http://www.broadview.com.cn/book/18>
 
 * 本仓库GitHub地址:<https://github.com/yifengyou/codinginterview2>
 
